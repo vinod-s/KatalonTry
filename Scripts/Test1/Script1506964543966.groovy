@@ -21,3 +21,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('www.google.com')
 
+WebUI.closeBrowser()
+
